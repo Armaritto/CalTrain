@@ -1,0 +1,3 @@
+/home/ubuntu/CLionProjects/CalTrainLab3/cmake-build-debug/CMakeFiles/CalTrainLab3.dir
+/home/ubuntu/CLionProjects/CalTrainLab3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ubuntu/CLionProjects/CalTrainLab3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
