@@ -6,7 +6,7 @@ struct station {
     int numberOfPassengersWalkingOnTrain;
     pthread_mutex_t mutex;
     pthread_cond_t trainArrive;
-    pthread_cond_t passengerReady;
+    pthread_cond_t trainReady;
 };
 
 void station_init(struct station *station);
